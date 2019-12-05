@@ -1,0 +1,342 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="084b3eea-9d52-4be7-8960-f21ea7b407c5" name="Default" comment="欧电云笔试">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/MapDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/prodect_l.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/MapDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Product.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/prodect_l.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="E:\commodity_obj\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\javaSoftware\maven" />
+        <option name="mavenHome" value="D:/javaSoftware/apache-maven-3.3.9" />
+        <option name="userSettingsFile" value="D:\javaSoftware\apache-maven-3.3.9\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1UYis2MeA9s402LhFc2piQd0NOc" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="project.structure.last.edited" value="Global Libraries" />
+    <property name="project.structure.proportion" value="0.15279241" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\commodity_obj\src\main\java" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.prodect_l">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration name="MapDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MapDemo" />
+      <module name="commodity_obj" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="prodect_l" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="prodect_l" />
+      <module name="commodity_obj" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.prodect_l" />
+        <item itemvalue="Application.MapDemo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="084b3eea-9d52-4be7-8960-f21ea7b407c5" name="Default" comment="" />
+      <created>1547429716833</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1547429716833</updated>
+      <workItem from="1547429720408" duration="2435000" />
+      <workItem from="1575540134205" duration="5851000" />
+    </task>
+    <task id="LOCAL-00001" summary="欧电云笔试">
+      <created>1575545440463</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1575545440463</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="欧电云笔试" />
+    <option name="LAST_COMMIT_MESSAGE" value="欧电云笔试" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="492" y="237" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1575540155186">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="492" y="237" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1280.689@0.0.1280.689" timestamp="1575540155186" />
+    <state x="288" y="0" key="CommitChangelistDialog2" timestamp="1575545439694">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="288" y="0" key="CommitChangelistDialog2/0.0.1280.689@0.0.1280.689" timestamp="1575545439694" />
+    <state x="421" y="89" key="FileChooserDialogImpl" timestamp="1575545348532">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="421" y="89" key="FileChooserDialogImpl/0.0.1280.689@0.0.1280.689" timestamp="1575545348532" />
+    <state x="469" y="259" width="366" height="172" key="Github.CreateGistDialog" timestamp="1575545039546">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="469" y="259" width="366" height="172" key="Github.CreateGistDialog/0.0.1280.689@0.0.1280.689" timestamp="1575545039546" />
+    <state width="1237" height="276" key="GridCell.Tab.0.bottom" timestamp="1575543209071">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="276" key="GridCell.Tab.0.bottom/0.0.1280.689@0.0.1280.689" timestamp="1575543209071" />
+    <state width="1237" height="276" key="GridCell.Tab.0.center" timestamp="1575543209071">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="276" key="GridCell.Tab.0.center/0.0.1280.689@0.0.1280.689" timestamp="1575543209071" />
+    <state width="1237" height="276" key="GridCell.Tab.0.left" timestamp="1575543209071">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="276" key="GridCell.Tab.0.left/0.0.1280.689@0.0.1280.689" timestamp="1575543209071" />
+    <state width="1237" height="276" key="GridCell.Tab.0.right" timestamp="1575543209071">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="276" key="GridCell.Tab.0.right/0.0.1280.689@0.0.1280.689" timestamp="1575543209071" />
+    <state width="1237" height="301" key="GridCell.Tab.1.bottom" timestamp="1575542733231">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="301" key="GridCell.Tab.1.bottom/0.0.1280.689@0.0.1280.689" timestamp="1575542733231" />
+    <state width="1237" height="301" key="GridCell.Tab.1.center" timestamp="1575542733231">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="301" key="GridCell.Tab.1.center/0.0.1280.689@0.0.1280.689" timestamp="1575542733231" />
+    <state width="1237" height="301" key="GridCell.Tab.1.left" timestamp="1575542733231">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="301" key="GridCell.Tab.1.left/0.0.1280.689@0.0.1280.689" timestamp="1575542733231" />
+    <state width="1237" height="301" key="GridCell.Tab.1.right" timestamp="1575542733231">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="301" key="GridCell.Tab.1.right/0.0.1280.689@0.0.1280.689" timestamp="1575542733231" />
+    <state x="462" y="58" key="RollbackChangesDialog" timestamp="1575545878787">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="462" y="58" key="RollbackChangesDialog/0.0.1280.689@0.0.1280.689" timestamp="1575545878787" />
+    <state x="144" y="0" key="SettingsEditor" timestamp="1575545259637">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="144" y="0" key="SettingsEditor/0.0.1280.689@0.0.1280.689" timestamp="1575545259637" />
+    <state x="233" y="69" key="Vcs.Push.Dialog.v2" timestamp="1575546024888">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="233" y="69" key="Vcs.Push.Dialog.v2/0.0.1280.689@0.0.1280.689" timestamp="1575546024888" />
+    <state x="435" y="147" key="git4idea.merge.GitMergeDialog" timestamp="1575545944466">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="435" y="147" key="git4idea.merge.GitMergeDialog/0.0.1280.689@0.0.1280.689" timestamp="1575545944466" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArquillianSettingsConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>commodity_obj:war</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Web</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>commodity_obj</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.25166193" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: com.alibaba:fastjson:unknown</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
